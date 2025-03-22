@@ -1,16 +1,7 @@
 # inventory_manager
 
-A new Flutter project.
+Stockrad
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![Cyan Gradient Technology Startup Business Company Presentation](https://github.com/user-attachments/assets/31a5b035-1fa6-4dc7-b6a2-23f78ca651e8)
+![3](https://github.com/user-attachments/assets/a5c61ba2-9d06-4f93-b4b8-6d346a1b02d8)
+![2](https://github.com/user-attachments/assets/216fc735-1495-471d-8dab-ab2d91c17198)
